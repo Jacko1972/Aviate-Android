@@ -1,15 +1,18 @@
 # Aviate-Android
 Stage 2 of Final Project for Android Nanodegree by Udacity
 
+## Google Play
+[View on Google Play](https://play.google.com/store/apps/details?id=com.interneers.aviate)
+
 Aviate is an App that can be used by aviators, or meteorological enthusiasts to gain immediate information provided by Aerodromes and Heliports from around the globe. App provides a Flight Plan feature to list all the data from AD/HPs you provide, AD/HP Search where you can search by a partial name to get the details about the Station and its current weather data, the Around Me feature shows TAFs or METARs on a map, the map can be filtered using distance from current location and the map type can changed.
 
 ## Screens
 
-![screen](../master/app/screenshots/phone.jpg)
-![screen](../master/app/screenshots/phone1.jpg)
-![screen](../master/app/screenshots/phone2.jpg)
+![screen](../master/screenshots/phone.jpg)
+![screen](../master/screenshots/phone1.jpg)
+![screen](../master/screenshots/phone2.jpg)
 
-![screen](../master/app/screenshots/tablet.jpg)
+![screen](../master/screenshots/tablet.jpg)
 
 ## Libraries
 
